@@ -9,3 +9,9 @@ function megaCool() {
 }
 
 megaCool();
+
+function coolest(x,y) {
+  if (x > y) {x * y}
+  console.log('La polla semos!')
+  return x + y ;
+}
